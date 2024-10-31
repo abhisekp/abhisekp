@@ -32,6 +32,8 @@
 - [Low-Cost Pluralsight, O’Reilly, Skillsoft Percipio accounts for Computer Professionals and Learners](https://abhisekp.medium.com/low-cost-pluralsight-oreilly-skillsoft-percipio-accounts-for-computer-professionals-and-learners-93d24845d1af?source=rss-6c40f1408f7b------2)
 - [Gaming and Remote work-life balance](https://abhisekp.medium.com/gaming-and-remote-work-life-balance-6283b7e438e5?source=rss-6c40f1408f7b------2)
 - [Automate Your Rust Compile-Run cycle with rust_compile_run ️](https://towardsdev.com/automate-your-rust-compiler-run-cycle-with-rust-compile-run-76241634ccd?source=rss-6c40f1408f7b------2)
+- [Roles and Permissions for Frontend App](https://medium.com/impelsys/roles-and-permissions-for-frontend-app-dd5941a95d16?source=rss-6c40f1408f7b------2)
+- [Message of the Day from Abhitech Solutions  — Issue #7](https://abhisekp.medium.com/message-of-the-day-from-abhitech-solutions-issue-7-a5445c8aafa7?source=rss-6c40f1408f7b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
