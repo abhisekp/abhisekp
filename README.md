@@ -28,6 +28,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Top 10 Epic Adventures](https://abhisekp.medium.com/exploring-top-10-epic-adventures-82b1c15818ad?source=rss-6c40f1408f7b------2)
+- [Low-Cost Pluralsight, O’Reilly, Skillsoft Percipio accounts for Computer Professionals and Learners](https://abhisekp.medium.com/low-cost-pluralsight-oreilly-skillsoft-percipio-accounts-for-computer-professionals-and-learners-93d24845d1af?source=rss-6c40f1408f7b------2)
+- [Gaming and Remote work-life balance](https://abhisekp.medium.com/gaming-and-remote-work-life-balance-6283b7e438e5?source=rss-6c40f1408f7b------2)
+- [Automate Your Rust Compile-Run cycle with rust_compile_run ️](https://towardsdev.com/automate-your-rust-compiler-run-cycle-with-rust-compile-run-76241634ccd?source=rss-6c40f1408f7b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
