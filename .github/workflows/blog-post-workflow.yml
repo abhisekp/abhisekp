@@ -3,6 +3,8 @@ on:
   schedule:
     # Runs on the 1st of every month at 00:00 (midnight)
     - cron: '0 0 1 * *'
+  workflow_dispatch:  # Enables manual trigger
+
 jobs: 
   update-readme-with-blog: 
     name: Update this repo's README with latest blog posts
