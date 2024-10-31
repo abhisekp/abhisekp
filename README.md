@@ -1,5 +1,6 @@
-<h1 align="center">Namaskaram 👋, I'm Abhisek Pattnaik</h1>
-<h3 align="center">A passionate Software Engineer from India 🧑‍💻 🇮🇳</h3>
+<h1 align="center">Namaskaram 👋, I'm Abhisek Pattnaik <a href="https://www.buymeacoffee.com/abhisekp"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" alt="abhisekp" /></a></h1>
+
+<h3 align="center">A passionate Software Engineer from India 🧑‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisekp&label=Profile%20views&color=0e75b6&style=flat" alt="abhisekp" /> </p>
 
@@ -39,7 +40,7 @@
 <a href="https://codesandbox.com/abhisekp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abhisekp" height="30" width="40" /></a>
 <a href="https://kaggle.com/abhisekp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhisekp" height="30" width="40" /></a>
 <a href="https://hashnode.com/abhisekp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="abhisekp" height="30" width="40" /></a>
-<a href="https://medium.com/abhisekp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="abhisekp" height="30" width="40" /></a>
+<a href="https://medium.com/@abhisekp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhisekp" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/abhitechtalks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abhitechtalks" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abhisekp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhisekp" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhisekp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhisekp" height="30" width="40" /></a>
