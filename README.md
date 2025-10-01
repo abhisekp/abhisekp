@@ -28,12 +28,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ultimate Setup for Gaming, Streaming, Editing, and Programming](https://abhisekp.medium.com/ultimate-setup-for-gaming-streaming-editing-and-programming-e001390bb9f8?source=rss-6c40f1408f7b------2)
+- [Elevate Your Insta360 One X2 Experience: Must-Have Accessories for Stunning 360° Content](https://abhisekp.medium.com/elevate-your-insta360-one-x2-experience-must-have-accessories-for-stunning-360-content-38501d200f03?source=rss-6c40f1408f7b------2)
+- [Go 1.24 Unleashed: Faster, Smarter, and Packed with New Features!](https://abhisekp.medium.com/go-1-24-unleashed-faster-smarter-and-packed-with-new-features-33072979e1c7?source=rss-6c40f1408f7b------2)
 - [Exploring Top 10 Epic Adventures](https://abhisekp.medium.com/exploring-top-10-epic-adventures-82b1c15818ad?source=rss-6c40f1408f7b------2)
 - [Low-Cost Pluralsight, O’Reilly, Skillsoft Percipio accounts for Computer Professionals and Learners](https://abhisekp.medium.com/low-cost-pluralsight-oreilly-skillsoft-percipio-accounts-for-computer-professionals-and-learners-93d24845d1af?source=rss-6c40f1408f7b------2)
 - [Gaming and Remote work-life balance](https://abhisekp.medium.com/gaming-and-remote-work-life-balance-6283b7e438e5?source=rss-6c40f1408f7b------2)
-- [Automate Your Rust Compile-Run cycle with rust_compile_run ️](https://towardsdev.com/automate-your-rust-compiler-run-cycle-with-rust-compile-run-76241634ccd?source=rss-6c40f1408f7b------2)
-- [Roles and Permissions for Frontend App](https://medium.com/impelsys/roles-and-permissions-for-frontend-app-dd5941a95d16?source=rss-6c40f1408f7b------2)
-- [Message of the Day from Abhitech Solutions  — Issue #7](https://abhisekp.medium.com/message-of-the-day-from-abhitech-solutions-issue-7-a5445c8aafa7?source=rss-6c40f1408f7b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
