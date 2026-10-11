@@ -1,3 +1,7 @@
+---
+description: Full-stack Developer with 8+ years of experience building enterprise apps using Node.js, Golang, MySQL, MongoDB, Express.js, React.js, and AWS.
+---
+
 <div align="center">
 
 <p><strong>FULL-STACK ENGINEERING · OPEN SOURCE · INDIA</strong></p>
@@ -6,8 +10,7 @@
 
 <h3>Engineering resilient systems with Go, Node &amp; modern Cloud.</h3>
 
-<p>I build web applications, backend services, and developer tools.<br>
-Thoughtful interfaces. Dependable systems. Always learning.</p>
+<p>Full-stack Developer with 8+ years of experience building enterprise apps using <a href="https://nodejs.org/">Node.js</a>, Golang, MySQL, MongoDB, <a href="https://expressjs.com/">Express.js</a>, <a href="https://react.dev/">React.js</a>, and AWS.</p>
 
 <p>
   <img src="https://img.shields.io/badge/Go-131b2e?style=for-the-badge&amp;logo=go&amp;logoColor=8ed5ff" alt="Go" />
