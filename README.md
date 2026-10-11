@@ -2,12 +2,12 @@
 
 <p><strong>FULL-STACK ENGINEERING · OPEN SOURCE · INDIA</strong></p>
 
-# Namaskaram 👋, I’m Abhisek Pattnaik
+<h1>Namaskaram 👋, I’m Abhisek Pattnaik</h1>
 
-### Engineering resilient systems with Go, Node & modern Cloud.
+<h3>Engineering resilient systems with Go, Node &amp; modern Cloud.</h3>
 
-I build web applications, backend services, and developer tools.<br>
-Thoughtful interfaces. Dependable systems. Always learning.
+<p>I build web applications, backend services, and developer tools.<br>
+Thoughtful interfaces. Dependable systems. Always learning.</p>
 
 <p>
   <img src="https://img.shields.io/badge/Go-131b2e?style=for-the-badge&amp;logo=go&amp;logoColor=8ed5ff" alt="Go" />
@@ -16,9 +16,9 @@ Thoughtful interfaces. Dependable systems. Always learning.
   <img src="https://img.shields.io/badge/TypeScript-131b2e?style=for-the-badge&amp;logo=typescript&amp;logoColor=bdc2ff" alt="TypeScript" />
 </p>
 
-**[Explore my work ↓](#selected-work)** &nbsp; · &nbsp; **[Read my writing ↗](https://medium.com/@abhisekp)** &nbsp; · &nbsp; **[Let’s talk ↗](https://topmate.io/abhisekp)**
+<p><strong><a href="#selected-work">Explore my work ↓</a></strong> &nbsp; · &nbsp; <strong><a href="https://medium.com/@abhisekp">Read my writing ↗</a></strong> &nbsp; · &nbsp; <strong><a href="https://topmate.io/abhisekp">Let’s talk ↗</a></strong></p>
 
-<sub>[Projects](#selected-work) · [Current focus](#current-focus) · [Engineering stack](#engineering-stack) · [Writing](#writing--deep-dives) · [Connect](#lets-connect)</sub>
+<p><sub><a href="#selected-work">Projects</a> · <a href="#current-focus">Current focus</a> · <a href="#engineering-stack">Engineering stack</a> · <a href="#writing--deep-dives">Writing</a> · <a href="#lets-connect">Connect</a></sub></p>
 
 </div>
 
@@ -119,7 +119,7 @@ Good software starts with a conversation. Talk engineering, explore an idea, or 
 <details>
 <summary><strong>More places to find me</strong></summary>
 
-[CodeSandbox](https://codesandbox.com/abhisekp) · [Kaggle](https://kaggle.com/abhisekp) · [Hashnode](https://hashnode.com/abhisekp) · [HackerRank](https://www.hackerrank.com/abhisekp) · [LeetCode](https://www.leetcode.com/abhisekp) · [HackerEarth](https://www.hackerearth.com/@abhisekp) · [Topcoder](https://www.topcoder.com/members/abhisekp)
+<p><a href="https://codesandbox.com/abhisekp">CodeSandbox</a> · <a href="https://kaggle.com/abhisekp">Kaggle</a> · <a href="https://hashnode.com/abhisekp">Hashnode</a> · <a href="https://www.hackerrank.com/abhisekp">HackerRank</a> · <a href="https://www.leetcode.com/abhisekp">LeetCode</a> · <a href="https://www.hackerearth.com/@abhisekp">HackerEarth</a> · <a href="https://www.topcoder.com/members/abhisekp">Topcoder</a></p>
 
 </details>
 
@@ -127,8 +127,8 @@ Good software starts with a conversation. Talk engineering, explore an idea, or 
 
 <div align="center">
 
-**Curious by nature. An engineer by craft.**
+<p><strong>Curious by nature. An engineer by craft.</strong></p>
 
-<sub>Enjoy the projects or writing? [Buy me a coffee ☕](https://www.buymeacoffee.com/abhisekp)</sub>
+<p><sub>Enjoy the projects or writing? <a href="https://www.buymeacoffee.com/abhisekp">Buy me a coffee ☕</a></sub></p>
 
 </div>
