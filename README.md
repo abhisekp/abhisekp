@@ -56,7 +56,7 @@ Applications and open-source packages built around practical problems.
 <td width="50%" valign="top">
 <sub><strong>OPEN SOURCE · DEVELOPER EXPERIENCE</strong></sub>
 <h3>⌘ tech-human-id</h3>
-<p>Readable identifiers made from short tech words, such as <code>ReliableSystemsSync</code>. Browser support, TypeScript declarations, and zero runtime dependencies.</p>
+<p>Human-readable identifiers made from short tech words. Browser support, TypeScript declarations, and zero runtime dependencies.</p>
 <p><code>TypeScript</code> <code>ESM</code> <code>CommonJS</code></p>
 <p><a href="https://github.com/abhisekp/tech-human-id"><strong>Explore tech-human-id ↗</strong></a></p>
 </td>
