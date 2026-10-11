@@ -1,4 +1,6 @@
 ---
+layout: default
+permalink: /
 description: Full-stack Developer with 8+ years of experience building enterprise apps using Node.js, Golang, MySQL, MongoDB, Express.js, React.js, and AWS.
 ---
 
