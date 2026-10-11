@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /
+title: Abhisek Pattnaik · Full-stack Developer
 description: Full-stack Developer with 8+ years of experience building enterprise apps using Node.js, Golang, MySQL, MongoDB, Express.js, React.js, and AWS.
 ---
 
